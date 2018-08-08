@@ -1,0 +1,16 @@
+{
+    "name": "Registry",
+    "alias": "registry",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Registry\\Providers\\RegistryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
